@@ -6,8 +6,7 @@ Currently publically visible:
 
 Solutions to ['Think Python' (2nd edition) by Allen B. Downey](https://greenteapress.com/wp/think-python-2e/)
 
-
-Work in progress - The Odin Project Fundamentals
+Exercises from [The Odin Project Foundations](https://www.theodinproject.com/)
 
 
 
