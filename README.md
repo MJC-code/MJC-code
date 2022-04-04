@@ -1,7 +1,15 @@
 This is my repository for personal learning to code exercises.
+
+
 Currently publically visible:
+
+
 Solutions to 'Think Python (2nd edition) by Allen B. Downey
+
+
 Work in progress - The Odin Project Fundamentals
+
+
 
 
 <!---
